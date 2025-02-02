@@ -39,3 +39,6 @@ Added image of yaktocat
 $ git init  
 Initialized empty Git repository in /Users/johndoe/Projects/personal-repository/.git/
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
