@@ -34,3 +34,8 @@ Add headers with fake personal info to index.md
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Added image of yaktocat
+
+```
+$ git init  
+Initialized empty Git repository in /Users/johndoe/Projects/personal-repository/.git/
+```
