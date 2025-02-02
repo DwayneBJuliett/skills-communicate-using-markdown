@@ -31,3 +31,6 @@ I have over 1 year of experience in data engineering, working on various project
 
 Add headers with fake personal info to index.md
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
